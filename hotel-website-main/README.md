@@ -1,2 +1,2 @@
-# website-internship
-restraunt website
+# website
+hotel website
